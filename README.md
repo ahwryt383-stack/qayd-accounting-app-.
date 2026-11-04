@@ -1,0 +1,1 @@
+# qayd-accounting-app-.
